@@ -480,3 +480,9 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Local database and uploaded photos
+*.db
+*.db-shm
+*.db-wal
+**/wwwroot/uploads/
